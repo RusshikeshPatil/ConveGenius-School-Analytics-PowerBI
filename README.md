@@ -256,19 +256,19 @@ The dashboard includes:
 
 ### School Infrastructure & Resource Overview
 
-![School Infrastructure Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/01-School-Infrastructure.png.png))
+![School Infrastructure Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/01-School-Infrastructure.png))
 
 ---
 
 ### Student Learning & Assessment Performance
 
-![Student Learning Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/02-Student-Learning-Assessment.png.png))
+![Student Learning Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/02-Student-Learning-Assessment.png))
 
 ---
 
 ### Attendance Monitoring & Performance Correlation
 
-![Attendance Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/03-Attendance-Performance-Correlation.png.png))
+![Attendance Dashboard]((https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/03-Attendance-Performance-Correlation.png))
 
 ---
 
