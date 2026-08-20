@@ -256,7 +256,7 @@ The dashboard includes:
 
 ### School Infrastructure & Resource Overview
 
-![School Infrastructure Dashboard](https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/tree/main/Dashboard)
+![School Infrastructure Dashboard](https://github.com/RusshikeshPatil/ConveGenius-School-Analytics-PowerBI/blob/main/Dashboard/01-School-Infrastructure.png)
 
 ---
 
